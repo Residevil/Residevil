@@ -8,16 +8,16 @@ Welcome to my GitHub! I'm a Full-Stack Software Engineer based in Vancouver, Can
 Python, Java, C++, SQL, JavaScript, TypeScript
 
 ### Frontend Development
-React.js (Hooks, Redux), Next.js, Angular, HTML5, CSS3 (Flexbox, Grid), IntelliJ IDEA, PyCharm, Visual Studio Code, Postman (API Testing), Unit Testing (Pytest, JUnit), Swagger
+React.js (Hooks, Redux), Next.js, PyCharm, Visual Studio Code, Postman (API Testing), Unit Testing (Pytest, JUnit)
 
 ### Backend Development
-Flask, Django, Spring Boot (Java), Node.js (Express), RESTful API design, Swagger/OpenAPI documentation, JSON, JWT authentication, Git, GitHub, Docker, Kubernetes, CI/CD Pipelines, Jenkins, AWS (EC2, Lambda), GCP, Azure
+Flask, Django, Spring Boot (Java), Node.js (Express), RESTful API design, OpenAPI documentation, JSON, JWT authentication, Git, GitHub, Docker, Kubernetes, CI/CD Pipelines, Jenkins, AWS (S3, DynamoDB, EC2, Lambda), GCP, Azure
 
 ### Databases
 Caching (Redis), PostgreSQL, MySQL (Relational), MongoDB (NoSQL)
 
 ### AI & Machine Learning
-TensorFlow, PyTorch, Natural Language Processing, Pandas, Scikit-learn, Keras
+TensorFlow, PyTorch, Natural Language Processing, Pandas, Scikit-learn, Keras, STT, TTS
 
 ## 🎓 **Education**
 - **Bachelor of Technology in Information Technology**  
@@ -30,7 +30,7 @@ _Vancouver, CA (August 2024 - Present)_
 - Built a chat-based mind map generator using React Flow for real-time collaboration across 10,000+ users  
 - Developed RESTful APIs to enhance mind map creation and management, improving API response times by 25%  
 - Implemented a document-to-podcast feature using LLMs, Flask, and React, boosting conversion rates and subscriptions by 10%  
-- Optimized backend processes and database queries, achieving a 20% improvement in performance  
+- Optimized backend processes and database queries, achieving a 20% improvement in performance
 
 ### The International School of Macao — *Application Consultant*  
 _Macao, China (May 2019 - August 2019)_  
